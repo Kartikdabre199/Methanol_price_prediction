@@ -3,7 +3,7 @@ Time series analysis is a specific way of analyzing a sequence of data points co
 In time series analysis, analysts record data points at consistent intervals over a set period of time
 ## Methanol_price_prediction
 ### Introduction
- Methanol has chemical and physical fuel properties similar to ethanol. Methanol was used in the 1990s 
+ Methanol has chemical and physical fuel properties similar to ethanol. Methanol was used in the 1990s,
  but is no longer in use or being developed as a commercial transportation fuel,This program is to predict the 
  price of the methanol over the years and predicting future of the methanol .
 ### Problem Statement
